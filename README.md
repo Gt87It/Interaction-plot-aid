@@ -1,4 +1,4 @@
-# Interaction-plot-aid
+# Interaction plot aid
 A simple and intuitive excel/ods file to help you plotting two-way interactions.
 
 Fill in the values as requested from a multiple linear regression table.
