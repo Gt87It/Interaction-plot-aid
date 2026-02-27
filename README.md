@@ -5,7 +5,7 @@ Fill in the values as requested from a multiple linear regression table.
 
 You just need the BETA coefficients of the intercept, the IV, the moderator and the interaction effect; and the standard deviation of both the IV and the moderator.
 
-The Y axis is not scaled but you could just leave it as it is or change the scale, or just opt for no-scale.
+The Y axis is not scaled but you could just leave it as it is or change the scale.
 
 The Y axis and the graph titles must be entered manually.
 
