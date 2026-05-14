@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Gt87It)
+
 # Interaction plot aid
 A simple and intuitive excel/ods file to help you plotting two-way interactions.
 
